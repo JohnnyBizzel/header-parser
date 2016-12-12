@@ -1,0 +1,24 @@
+{
+  "name": "header-parser",
+  "version": "1.0.0",
+  "description": "FCC NodeJS 2. Return a JSON of the user IP etc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JohnnyBizzel/header-parser.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "John Barber",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JohnnyBizzel/header-parser/issues"
+  },
+  "dependencies": {
+    "express": "~4.14.0"
+  }
+}
